@@ -1,4 +1,4 @@
-# 📊 Student Social Media & Mental Health Dashboard
+# 📊 Digital Behavior & Wellness Dashboard
 
 This Excel project explores how social media usage impacts students’ sleep, academic performance, and mental health. Built using pivot tables, slicers, and data visualizations, the dashboard offers clear insights based KPIs.
 
