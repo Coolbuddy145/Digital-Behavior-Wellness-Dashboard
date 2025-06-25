@@ -17,10 +17,10 @@ This Excel project explores how social media usage impacts students’ sleep, ac
 - Analytical Thinking & Visualization
 
 ## Steps
--Checked data for duplicate values
--Calculated new column "Sleep_Bin" using built in functions
--Built Pivot Tables and Charts
--Designed a Dashboard to present and visualize key insights and trends.
+- Checked data for duplicate values
+- Calculated new column "Sleep_Bin" using built in functions
+- Built Pivot Tables and Charts
+- Designed a Dashboard to present and visualize key insights and trends.
 
 ## Insights  💡 
 📍Instagram, TikTok followed by Facebook are the most used Platform.
