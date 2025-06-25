@@ -23,7 +23,7 @@ This Excel project explores how social media usage impacts students’ sleep, ac
 - Designed a Dashboard to present and visualize key insights and trends.
 
 ## Insights  💡 
-📍 Instagram, TikTok followed by Facebook are the most used Platform.
+- Instagram, TikTok followed by Facebook are the most used Platform.
 📍 Females have more screen time as comapred to males.
 📍 A notable correlation was observed between reduced sleep hours and poor mental well-being.
 📍 Over 60% of students admitted that social media use affects their academic performance.
