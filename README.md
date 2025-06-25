@@ -1,4 +1,4 @@
-# 📊 Student Social Media & Mental Health Dashboard
+![image](https://github.com/user-attachments/assets/f1e998e3-8177-4338-b7a0-ed73b13e9fb9)# 📊 Student Social Media & Mental Health Dashboard
 
 This Excel project explores how social media usage impacts students’ sleep, academic performance, and mental health. Built using pivot tables, slicers, and data visualizations, the dashboard offers clear insights based KPIs.
 
@@ -15,3 +15,16 @@ This Excel project explores how social media usage impacts students’ sleep, ac
 - Microsoft Excel (Pivot Tables, Slicers, Charts)
 - Data Cleaning & Categorization
 - Analytical Thinking & Visualization
+
+##Steps
+-Checked data for duplicate values
+-Calculated new column "Sleep_Bin" using built in functions
+-Built Pivot Tables and Charts
+-Designed a Dashboard to present and visualize key insights and trends.
+
+##Insights  💡 
+📍Instagram, TikTok followed by Facebook are the most used Platform.
+📍Females have more screen time as comapred to males.
+📍A notable correlation was observed between reduced sleep hours and poor mental well-being.
+📍Over 60% of students admitted that social media use affects their academic performance.
+📍Conflicts over social media were more prevalent among frequent users and varied by gender.
