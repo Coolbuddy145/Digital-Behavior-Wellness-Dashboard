@@ -16,13 +16,13 @@ This Excel project explores how social media usage impacts students’ sleep, ac
 - Data Cleaning & Categorization
 - Analytical Thinking & Visualization
 
-##Steps
+## Steps
 -Checked data for duplicate values
 -Calculated new column "Sleep_Bin" using built in functions
 -Built Pivot Tables and Charts
 -Designed a Dashboard to present and visualize key insights and trends.
 
-##Insights  💡 
+## Insights  💡 
 📍Instagram, TikTok followed by Facebook are the most used Platform.
 📍Females have more screen time as comapred to males.
 📍A notable correlation was observed between reduced sleep hours and poor mental well-being.
