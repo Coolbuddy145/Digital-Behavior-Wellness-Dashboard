@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f1e998e3-8177-4338-b7a0-ed73b13e9fb9)# 📊 Student Social Media & Mental Health Dashboard
+# 📊 Student Social Media & Mental Health Dashboard
 
 This Excel project explores how social media usage impacts students’ sleep, academic performance, and mental health. Built using pivot tables, slicers, and data visualizations, the dashboard offers clear insights based KPIs.
 
