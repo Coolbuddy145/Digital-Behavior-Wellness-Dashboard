@@ -31,4 +31,4 @@ This Excel project explores how social media usage impacts students’ sleep, ac
 
 📍 Over 60% of students reported that social media usage negatively affects their academic performance.
 
-📍 Social media conflicts were more prevalent among frequent users and showed variation by gender......
+📍 Social media conflicts were more prevalent among frequent users and showed variation by gender.
